@@ -1,0 +1,63 @@
+<?php
+
+return [
+    'form'     => [
+        'type'                          => "Type",
+        'owner'                         => "Owner",
+        'dealer'                        => "Dealer",
+        'make'                          => "Make",
+        'model'                         => "Model",
+        'trim'                          => "Trim",
+        'year'                          => "Year",
+        'city'                          => "City",
+        'province'                      => "Province",
+        'search_by'                     => 'Search by...',
+        'year_ranger'                   => '2001-' . date('Y'),
+        'from'                          => "From",
+        'to'                            => "To",
+        'apply'                         => "Apply",
+        'cancel'                        => "Cancel",
+        'year_range'                    => "Year",
+        'mileage_range'                 => "Mileage",
+        'price_range'                   => "Price",
+        'apply_search'                  => "Apply Filter",
+        'advance_search_between_filter' => "Advance Filters",
+        'features'                      => "Features",
+        'location'                      => "Search by city or province",
+        'cities'                        => "Cities",
+        'provinces'                     => "Provinces",
+        'city_placeholder'              => "Search by city",
+        'province_placeholder'          => "Search by province",
+        'min'                           => "Min",
+        'max'                           => "Max",
+    ],
+    'car'      => [
+        "price"              => "Price",
+        "cylinders"          => "Cylinders",
+        "door_count"         => "Door Count",
+        "number_of_seats"    => "Number of seats",
+        "year"               => "Year",
+        "make"               => "Make",
+        "model"              => "Model",
+        "body_style"         => "Body Style",
+        "mileage"            => "Mileage",
+        "transmission"       => "Transmission",
+        "drivetrain"         => "Drivetrain",
+        "engine"             => "Engine",
+        "fuel_type"          => "Fuel Type",
+        "trim"               => "Trim",
+        "exterior_color"     => "Exterior Color",
+        "interior_color"     => "Interior Color",
+        "stock_number"       => "Stock Number",
+        "description"        => "Description",
+        "other_desc"         => "Other Description",
+        "options"            => "options",
+        "general_properties" => "General Properties",
+    ],
+    'messages' => [
+        'alert' => [
+            'title'   => "Uh-Oh!",
+            'message' => "Sorry, no records were found. Please modify the search query and/or adjust your filter parameters then try again."
+        ]
+    ]
+];

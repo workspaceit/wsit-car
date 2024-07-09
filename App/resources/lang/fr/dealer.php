@@ -1,0 +1,56 @@
+<?php
+
+return [
+    'wholesale_price'   => "Prix de gros",
+    'wholesale_des'     => "Description du commerce de gros",
+    'exporter_price'    => "Prix à l'exportation",
+    'exporter_des'      => "Description de l'exportateur",
+    'dealer_users'      => "Utilisateurs concessionnaires",
+    'anynmouns_seller'  => "Vendeur d'Anynmouns",
+    'communication'     => "Communication",
+    'exchanges'         => "Échanges",
+    'transport_request' => "Demande de transport",
+    'account_info'      => "Account Info",
+    'dealer_info'       => "Dealer Info",
+    'fb_app'            => 'FB APP',
+    'contract_number'   => "Contract No.",
+    "delete_all"        => "Supprimer tout",
+    "delete_date"       => "Supprimer la date",
+    "version"           => "Version",
+    "last_check"        => "Dernier contrôle",
+    "last_post"         => "Dernier message",
+    "count"             => "Comte",
+    "app_version"       => "AppVersion",
+    "app_update"        => "AppUpdate",
+    "auto_description"  => "Description de l'auto",
+    "show_dealerInfo"   => "Montrer DealerInfo",
+    "flush"             => "Flush",
+    "mk_boost_interval" => "MK Boost Interval",
+    "km_on_missing"     => "KM sur les disparitions",
+    "no_vehicles"       => "Aucun véhicule",
+    "auto_parts"        => "Pièces automobiles",
+    "other_categories"  => "Autres catégories",
+    "categories"        => "Catégories",
+    "category_selection"=> "CatégoriesSélectionnez les catégories",
+    "multi_thread"      => "Fils multiples",
+    "deletesold"        => "SupprimerSOLD",
+    "main_delay"        => "Délai principal",
+    "messages_counter"  => "Compteur de messages",
+    "messages_reply_delay" => "Délai de réponse aux messages",
+    "reply_by_item"     => "Réponse par Item",
+    "google_review_settings"=> "Paramètres des avis Google",
+    "messages"          => [
+        "fb_posts"       => [
+            "delete"      => [
+                "error" => "Facebook-Beitrag konnte nicht gelöscht werden!",
+                "success" => "Erfolgreich gelöschte Facebook-Beiträge.",
+            ],
+            "mk"      => [
+                "error" => "Impossible de mettre à jour le numéro MK du post facebook !",
+                "success" => "Mise à jour réussie du numéro de poste MK de Facebook.",
+            ]
+        ],
+        "fb_app_new_token_confirm" => "Êtes-vous sûr de vouloir générer un nouveau Token ?",
+        "fb_app_token_confirm"     => "Êtes-vous sûr de vouloir écraser le Token existant ?",
+    ]
+];

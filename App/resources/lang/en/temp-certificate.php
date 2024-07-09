@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'vin'            => 'NIV',
+    'model'          => 'MODÈLE',
+    'marque'         => 'MARQUE',
+    'annee'          => 'ANNEE',
+    'title'          => "CERTIFICAT D'IMATRICULATION TEMPORAIRE",
+    'company_number' => "NUMERO DE DOSSIER A LA SOCIÉTÉ",
+    "saaq"           => "NUMÉRO SAAQ",
+    "atac"           => "NUMÉRO ATAC",
+    "signature"      => "SIGNATURE",
+    'year'           => 'AAAA',
+    'month'          => 'MM',
+    'date'           => 'JJ',
+    'valid'           => "VALIDE POUR 10 JOURS SEULEMENT AUX FINS D'IMMATRICULATION",
+    'validity'           => "DATE DE DEBUT DE VALIDITE",
+    'expired'           => "DATE DE'EXPIRATION",
+    'address'        => "SI LE PROPIETAIRE N'A AUCUN DOSSIER A LA SOCIÉTÉ, INSCRIRE SON NOM ET SON ADRESSE DANS L'ESPACE PREVUE CI-DESSOUS",
+    'messages' => [
+        'create' => [
+            'success' => "The Temp certificate has been successfully created."
+        ],
+        'update' => [
+            'success' => "The Temp certificate has been successfully updated."
+        ]
+    ]
+];

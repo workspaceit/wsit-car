@@ -1,0 +1,58 @@
+<?php
+
+return [
+    'wholesale_price'   => "Wholesale Price",
+    'wholesale_des'     => "Wholesale Description",
+    'exporter_price'    => "Export Price",
+    'exporter_des'      => "Exporter Description",
+    'dealer_users'      => "Dealer Users",
+    'anynmouns_seller'  => "Anynmouns Seller",
+    'communication'     => "Communication",
+    'exchanges'         => "Exchanges",
+    'transport_request' => "Transport Request",
+    'account_info'      => "Account Info",
+    'dealer_info'       => "Dealer Info",
+    'fb_app'            => 'FB APP',
+    'contract_number'   => "Contract No.",
+    "delete_all"        => "Delete all",
+    "delete_date"       => "Delete date",
+    "version"           => "Version",
+    "last_check"        => "Last Check",
+    "last_post"         => "Last Post",
+    "count"             => "Count",
+    "app_version"       => "AppVersion",
+    "app_update"        => "AppUpdate",
+    "auto_description"  => "Auto Description",
+    "show_dealerInfo"   => "Show DealerInfo",
+    "flush"             => "Flush",
+    "mk_boost_interval" => "MK Boost Interval",
+    "km_on_missing"     => "KM on Missing",
+    "no_vehicles"       => "No Vehicles",
+    "auto_parts"        => "Auto Parts",
+    "other_categories"  => "Other Categories",
+    "categories"        => "Categories",
+    "category_selection"=> "Select Categories",
+    "yard"              => "Yard",
+    "yard_control"      => "Yard Control",
+    "multi_thread"      => "Multi Thread",
+    "deletesold"        => "DeleteSOLD",
+    "main_delay"        => "Main Delay",
+    "messages_counter"  => "Messages Counter",
+    "messages_reply_delay" => "Messages Reply Delay",
+    "reply_by_item"     => "Reply by Item",
+    "google_review_settings"=> "Google review settings",
+    "messages"          => [
+        "fb_posts"       => [
+          "delete"      => [
+              "error" => "Failed to delete facebook post!",
+              "success" => "Successfully deleted facebook posts.",
+          ],
+          "mk"      => [
+              "error" => "Failed to update facebook post MK number!",
+              "success" => "Successfully updated facebook post MK number.",
+          ]
+        ],
+        "fb_app_new_token_confirm" => "Are you sure you want to generate new Token?",
+        "fb_app_token_confirm"     => "Are you sure you want to overwrite the existing Token?",
+    ]
+];

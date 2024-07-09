@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'payments'    => "Payments",
+    'dealer'      => "Dealer",
+    'contact'     => "Contact",
+    'title'       => "Title",
+    'car_vin'     => "VIN",
+    'type'        => "Type",
+    'due'         => "Due",
+    'paid'        => "Paid",
+    'total_pay'   => "Pay Amount",
+    'amount'      => "Amount",
+    'sales_price' => "Sales Price",
+    'date'        => "Date",
+    'note'        => "Note",
+    'docs'        => "Documents",
+    'created_at'  => "Created",
+    'updated_at'  => "Updated",
+    'notes'       => "Notes",
+    'details'     => "Details",
+    "sales_payment"=> "Sales Payments",
+    'payment_details'=> "Payment Details",
+    'payment_histories'=> "Payment Histories",
+    'uploaded_documents'=> "Uploaded Documents",
+    'sales_payment_details'=> "Sales Payment Details",
+    'add_payment' => "Add Sales Payment",
+    'new_payment' => "New Payment",
+    'no_data_available_in_table ' => "No data available in table ",
+
+    'histories'   => "Histories",
+];

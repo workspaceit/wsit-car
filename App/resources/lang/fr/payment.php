@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'payments'    => "Paiements",
+    'dealer'      => "Concessionnaire",
+    'contact'     => "Contact",
+    'title'       => "Titre",
+    'car_vin'     => "VIN",
+    'type'        => "Type",
+    'due'         => "Due",
+    'paid'        => "Payé",
+    'total_pay'   => "Montant du paiement",
+    'amount'      => "Montant",
+    'sales_price' => "Prix de vente",
+    'date'        => "Date",
+    'note'        => "Note",
+    'docs'        => "Documents",
+    'created_at'  => "Créé",
+    'updated_at'  => "Mise à jour de",
+    'notes'       => "Notes",
+    'details'     => "Détails",
+    "sales_payment"=> "Paiements des ventes",
+    'payment_details'=> "Détails du paiement",
+    'payment_histories'=> "Historique des paiements",
+    'uploaded_documents'=> "Documents téléchargés",
+    'sales_payment_details'=> "Détails du paiement des ventes",
+    'add_payment' => "Ajouter un paiement de vente",
+    'new_payment' => "Nouveau paiement",
+    'no_data_available_in_table ' => "Aucune donnée disponible dans le tableau",
+
+    'histories'   => "Histories",
+];
